@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Yashraj, a passionate Full Stack Web Developer, UI/UX Designer, and Mobile App Developer. I love creating innovative designs and crafting user-friendly interfaces that push the boundaries of UX.
+Enthusiastic and goal-oriented developer with a passion for crafting innovative web and mobile designs. Skilled in full stack development using MERN and MEAN stacks. Strong in creating responsive, user-friendly interfaces with meticulous attention to detail and pushing UX boundaries through creativity.
 
 ## 🔧 Key Skills
 
@@ -28,4 +28,4 @@ I am Yashraj, a passionate Full Stack Web Developer, UI/UX Designer, and Mobile 
 ## 📫 Contact Me
 
 - Email: yashrajmundada0811@gmail.com
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/yashrajmundada/)
+- LinkedIn: https://www.linkedin.com/in/yashrajmundada/
